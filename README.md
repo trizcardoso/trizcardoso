@@ -9,8 +9,8 @@
 
 - 🦝 **Quem sou:** Meu nome é Beatriz Cardoso Rocha, tenho 17 anos e sou natural de São Roque-SP.
 - 🦢 **Idiomas:** Inglês intermediário e Espanhol básico.
-- 🎧 **Atualmente:** Realizando curso técnico de ADS na Faculdade de Tecnologia e Escola SENAI Antonio Adolpho Lobbe.
-- 🐇 **Colaboração:** Buscando oportunidades no ramo, podendo ser um trabalho Full Stack.
+- 🎧 **Atualmente:** Realizando curso superior em Tecnólogo de ADS na Faculdade de Tecnologia e Escola SENAI Antonio Adolpho Lobbe.
+- 🐇 **Colaboração:** Buscando oportunidades no ramo, podendo ser um trabalho Full Stack ou especializado em IA Generativa.
 - 🦇 **Objetivo:** Aprender novas tecnologias e aprimorar constantemente minhas habilidades.
 
 ---
