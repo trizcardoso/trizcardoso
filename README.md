@@ -1,7 +1,6 @@
 [![Beatriz Cardoso](https://readme-typing-svg.herokuapp.com?font=Monoton&pause=1000&size=50&center=true&width=500&height=200&lines=Beatriz+Cardoso&color=FFFFFF)](https://git.io/typing-svg)
 
 <h2 style="color: #ADBAC0;">Bem-vindo(a) ao meu perfil do GitHub!</h2>
----
 
 ![Banner Inicial](https://i.pinimg.com/736x/e9/87/65/e98765d447fe305a5a02fc047a1d1c6f.jpg)
 
