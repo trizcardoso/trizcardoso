@@ -7,7 +7,7 @@
 
 <h2 style="color: #ADBAC0;">Sobre Mim</h2>
 
-- 🦝 **Quem sou:** Meu nome é Beatriz Cardoso Rocha, tenho 17 anos e sou natural de São Roque-SP.
+- 🦝 **Quem sou:** Meu nome é Beatriz Cardoso Rocha, tenho 18 anos e sou natural de São Roque-SP.
 - 🦢 **Idiomas:** Inglês intermediário e Espanhol básico.
 - 🎧 **Atualmente:** Realizando curso superior em Tecnólogo de ADS na Faculdade de Tecnologia e Escola SENAI Antonio Adolpho Lobbe.
 - 🐇 **Colaboração:** Buscando oportunidades no ramo, podendo ser um trabalho Full Stack ou especializado em IA Generativa.
